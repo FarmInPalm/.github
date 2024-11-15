@@ -111,7 +111,7 @@
 
 | 초기화면 |
 |----------|
-|![splash](![메인페이지](https://github.com/user-attachments/assets/e82ae3c0-04e4-43fd-8a7a-b0607af64836))|
+|![메인페이지](https://github.com/user-attachments/assets/e82ae3c0-04e4-43fd-8a7a-b0607af64836)|
 
 <br>
 
@@ -120,7 +120,7 @@
 
 | 초기화면 |
 |----------|
-|![splash](![트렌드](https://github.com/user-attachments/assets/c605a700-46bc-4673-bc10-98d2c98b6749))|
+|![트렌드](https://github.com/user-attachments/assets/c605a700-46bc-4673-bc10-98d2c98b6749)|
 
 <br>
 
@@ -131,8 +131,8 @@
 
 | 초기화면 |
 |----------|
-|![splash](![작물 모니터링](https://github.com/user-attachments/assets/67acb42d-7cd5-4b08-bd89-af32e34a0874))|
-|![splash](![작물 모니터링2](https://github.com/user-attachments/assets/a529276a-febb-459a-9a02-b439a4ca08f3))|
+|![작물 모니터링](https://github.com/user-attachments/assets/67acb42d-7cd5-4b08-bd89-af32e34a0874)|
+|![작물 모니터링2](https://github.com/user-attachments/assets/a529276a-febb-459a-9a02-b439a4ca08f3)|
 
 <br>
 
@@ -143,9 +143,8 @@
 
 | 초기화면 |
 |----------|
-|![splash](![히스토리 - 이벤트](https://github.com/user-attachments/assets/5afa7eb0-3734-4439-b954-4b7ff5ef66f0)
-)||![splash](![히스토리 - 이벤트2](https://github.com/user-attachments/assets/4a786fbd-4aca-4e45-b622-a01661d73ad7)
-)|
+|![히스토리 - 이벤트](https://github.com/user-attachments/assets/5afa7eb0-3734-4439-b954-4b7ff5ef66f0)|
+|![히스토리 - 이벤트2](https://github.com/user-attachments/assets/4a786fbd-4aca-4e45-b622-a01661d73ad7)|
 
 <br>
 
@@ -155,8 +154,8 @@
 
 | 초기화면 |
 |----------|
-|![splash](![히스토리 - 재고관리](https://github.com/user-attachments/assets/eafa1538-0259-40fe-8c05-1373e344bcc0))|
-|![splash](![히스토리 - 재고관리2](https://github.com/user-attachments/assets/0892a873-b2ec-4783-8e78-81b7441aa587))|
+|![히스토리 - 재고관리](https://github.com/user-attachments/assets/eafa1538-0259-40fe-8c05-1373e344bcc0)|
+|![히스토리 - 재고관리2](https://github.com/user-attachments/assets/0892a873-b2ec-4783-8e78-81b7441aa587)|
 
 <br>
 
