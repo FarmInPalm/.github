@@ -94,6 +94,7 @@ service code를 작성할 때 code의 통일성과 setter의 단점을 보완하
 스케줄 기록, 조희, 수정, 삭제 등의 기능을 구현했습니다.
 
 ### `서버 배포 자동화`
+cloudtype과 github actions를 이용하여 배포를 자동화 했습니다.
 
 <br>
 
