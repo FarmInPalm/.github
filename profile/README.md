@@ -2,7 +2,7 @@
 
 ![Frame 1171275996](https://github.com/user-attachments/assets/fdf74b6a-d895-41e4-9efd-2dee597a925a)
 
-- *배포 client URL*
+- *배포 client URL : X
 
 - *배포 server URL : https://port-0-farminpalmserver-m1bow3hn7b1c4b46.sel4.cloudtype.app*
 
