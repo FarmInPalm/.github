@@ -109,7 +109,6 @@
     - 기상 정보, 이달의 농업 기술, 농업 관련 연구 모아보기
     - 로그인 하지 않은 사용자에게도 이용할 수 있는 화면입니다.
 
-| 초기화면 |
 |----------|
 |![메인페이지](https://github.com/user-attachments/assets/e82ae3c0-04e4-43fd-8a7a-b0607af64836)|
 
@@ -118,7 +117,6 @@
 ### [뉴스 트렌드]
 - 최신 동향의 뉴스 기사와 농사 꿀팁, 계절별 대비책 등을 제공합니다
 
-| 초기화면 |
 |----------|
 |![트렌드](https://github.com/user-attachments/assets/c605a700-46bc-4673-bc10-98d2c98b6749)|
 
@@ -129,7 +127,6 @@
     - 각 농장의 온, 습도 등의 정보와 실시간 영상을 제공합니다.
 - 새로운 농장을 추가하거나 더 이상 필요없는 구역을 삭제할 수 있습니다.
 
-| 초기화면 |
 |----------|
 
 ![작물 모니터링](https://github.com/user-attachments/assets/67acb42d-7cd5-4b08-bd89-af32e34a0874) |![작물 모니터링2](https://github.com/user-attachments/assets/a529276a-febb-459a-9a02-b439a4ca08f3)
@@ -141,7 +138,6 @@
     - 각 이벤트의 시작과 끝, 제목을 입력하여 생성하고, 수정, 삭제도 가능합니다.
 - 등록된 이벤트는 캘린더에 표기되어 한눈에 보기 쉽습니다.
 
-| 초기화면 |
 |----------|
 
 ![히스토리 - 이벤트](https://github.com/user-attachments/assets/5afa7eb0-3734-4439-b954-4b7ff5ef66f0) |![히스토리 - 이벤트2](https://github.com/user-attachments/assets/4a786fbd-4aca-4e45-b622-a01661d73ad7)
@@ -153,7 +149,6 @@
 - 농업 관련 도구 및 재료들을 등록하여 관리할 수 있습니다.
     - 각 품목마다 분류와 수량을 설정합니다.
 
-| 초기화면 |
 |----------|
 
 ![히스토리 - 재고관리](https://github.com/user-attachments/assets/eafa1538-0259-40fe-8c05-1373e344bcc0) |![히스토리 - 재고관리2](https://github.com/user-attachments/assets/0892a873-b2ec-4783-8e78-81b7441aa587)
