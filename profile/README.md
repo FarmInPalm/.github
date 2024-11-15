@@ -46,13 +46,13 @@
 
 ### 프론트
 
-### Builder pattern
+### [Builder pattern]
 - service code를 작성할 때 code의 통일성과 setter의 단점을 보완하기 위해 builder pattern을 이용하였습니다.
 
-### Security
+### [Security]
 - 사용자마다 재고, 모니터링, 이벤트 등을 관리함에 따라 로그인/회원가입 기능이 필요했습니다. 데이터 보안을 위해 각 요청에 대해 auth filter를 적용했습니다. 허용된 요청에 대해서만 데이터에 접근할 수 있도록 설정했습니다.
 
-### Custom exception handler
+### [Custom exception handler]
 - 서버에서 발생할 수 있는 예외에 대하여 custom format으로 구성하여 client에게 알려줍니다. project 전역에서 발생하는 에러를 catch하여 일관된 형식으로 쉽게 파악할 수 있습니다.
 
 <br>
@@ -152,5 +152,4 @@
 |![splash]()|
 
 <br>
-
 
