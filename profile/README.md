@@ -1,4 +1,4 @@
-#  스마트팜 농부들을 위한 모니터링 서비스 🪴Falm In Palm🪴
+#  스마트팜 농부들을 위한 모니터링 서비스 🪴Farm In Palm🪴
 ![Frame 1171275995](https://github.com/user-attachments/assets/aefce78f-b229-4734-87f3-7ff8d7fced64)
 
 - 배포 client URL : 
