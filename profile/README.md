@@ -1,6 +1,9 @@
 #  스마트팜 농부들을 위한 모니터링 서비스 🪴Farm In Palm🪴
 ![Frame 1171275995](https://github.com/user-attachments/assets/aefce78f-b229-4734-87f3-7ff8d7fced64)
 
+
+![Frame 1171275996](https://github.com/user-attachments/assets/fdf74b6a-d895-41e4-9efd-2dee597a925a)
+
 - 배포 client URL : 
 - 배포 server URL : https://port-0-farminpalmserver-m1bow3hn7b1c4b46.sel4.cloudtype.app
 
